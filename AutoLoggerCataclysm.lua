@@ -2,7 +2,7 @@ AutoLoggerCataclysm = AutoLoggerCataclysm or
     LibStub("AceAddon-3.0"):NewAddon("AutoLoggerCataclysm", "AceConsole-3.0", "AceEvent-3.0")
 
 AutoLoggerCataclysm.name = "AutoLoggerCataclysm"
-AutoLoggerCataclysm.version = "1.0.0"
+AutoLoggerCataclysm.version = "1.0.0-beta.1"
 
 AutoLoggerCataclysm.raids = {
     -- Baradin Hold
