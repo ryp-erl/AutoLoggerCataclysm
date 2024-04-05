@@ -55,7 +55,7 @@ function AutoLoggerCataclysm:CheckInstanceAndLog()
         end
     else
         if LoggingCombat() then
-            self:Print("Combat logging |cffff0000deactivated|r (not in a WotLK raid).")
+            self:Print("Combat logging |cffff0000deactivated|r (not in a Cataclysm raid).")
             LoggingCombat(false)
         end
     end
