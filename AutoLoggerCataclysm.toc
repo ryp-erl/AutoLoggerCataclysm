@@ -1,8 +1,8 @@
 ## Author: Ryp
 ## Interface: 40400
 ## Notes: Automatically triggers combat logging when entering a Catalysm raid.
-## Title: AutoLoggerCataclysm |cFF7C0AFFv1.0.0-beta.2|r
-## Version: 1.0.0-beta.2
+## Title: AutoLoggerCataclysm |cFF7C0AFFv1.0.0|r
+## Version: 1.0.0
 ## SavedVariables: AutoLoggerCataclysmDB
 ## OptionalDeps: Ace3
 ## X-Embed: Ace3
